@@ -1,8 +1,8 @@
 # Antwoorden opdracht 1
 
-Antwoord in bytes:
+Antwoord in bytes: 1.487.991 bytes
 
-Antwoord in kilobytes:
+Antwoord in kilobytes: 1.487,9 kb
 
 # Antwoorden opdracht 2
 
